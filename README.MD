@@ -10,6 +10,8 @@
 #### Linux
 *Current purchased license is for Ubuntu 22.04 and CUDA version 12.8 and python3.10* 
 
+Add 'import pkgutil' to mesh_kit.py as first import 
+
 - FMCW_radar_link_budet.py
 - radarsimpy (free trial from radarsimpy)
     - __init__.py
